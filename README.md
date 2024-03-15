@@ -1,2 +1,2 @@
-# Lista-de-reposit-rio
+# Lista-de-repositório
 mopa
